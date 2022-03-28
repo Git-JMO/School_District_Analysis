@@ -20,4 +20,12 @@
        ![OLD_SCHOOL_SUMMARY](Resources/OLD_SCHOOL_SUMMARY.png)
         * New School Summary
        ![NEW_SCHOOL_SUMMARY](Resources/NEW_SCHOOL_SUMMARY.png)
-     *
+      
+   * How does replacing the ninth-grade scores affect the following:
+     * Math and reading scores by grade: Math and reading scores remained the same. There was no impact.
+     * Scores by school spending: Replacing the ninth-grade scores affected the percent of overall passing, specifically in the $585-630 spending range (increased by 9%)
+     * Scores by school size: The scores by school size remained the same with no impact.
+     * Scores by school type: The scores by school type remained the same with no impact.
+     
+## Summary:
+   * Overall, the removal of the ninth-grade data for Thomas High School had a very minimal impact on the school district analysis, specifically on the School and District Summaries, Math and reading scores by grade, scores by school size, and scores by school type. Due to this minimal impact and in an attempt to save the school board's time, a limited amount of images was used for this write up. However, additional images can be provided upon request. A link to the copy of the code is provided below for the school board's easy reference. 
