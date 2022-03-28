@@ -11,6 +11,8 @@
         
         * New District Summary:
         ![New_District_Summary](Resources/New_District_Summary.png)
-
-
+        
+   * How is the school summary affected?
+     * After changes were made to Thomas High School, we can see a decrease by at least .1%
+       * Previous School Summary:
 
