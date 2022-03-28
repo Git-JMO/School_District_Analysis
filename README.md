@@ -6,11 +6,11 @@
 ## The Results:
    *  How is the district summary affected?
       * As seen in the images below, replacing Thomas High School's math and reading scores with NaNs had a **minimal** impact on the district summary. More specifically, if we were to round to the nearest whole number, the summaries would be identical. See below. 
-        * Old District Summary:
-        ![Total_Votes_County_Votes2](Resources/Total_Votes_County_Votes2.png)
+        * Previous District Summary:
+        ![Old_District_Summary](Resources/Old_District_Summary.png)
         
         * New District Summary:
-        ![Total_Votes_County_Votes2](Resources/Total_Votes_County_Votes2.png)
+        ![New_District_Summary](Resources/New_District_Summary.png)
 
 
 
