@@ -21,7 +21,7 @@
         * New School Summary
        ![NEW_SCHOOL_SUMMARY](Resources/NEW_SCHOOL_SUMMARY.png)
       
-   * How does replacing the ninth-grade scores affect the following:
+   * How does replacing the ninth-grade scores affect the following?:
      * Math and reading scores by grade: Math and reading scores remained the same. There was no impact.
      * Scores by school spending: Replacing the ninth-grade scores affected the percent of overall passing, specifically in the $585-630 spending range (increased by 9%)
      * Scores by school size: The scores by school size remained the same with no impact.
