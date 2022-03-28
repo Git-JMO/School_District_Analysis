@@ -29,3 +29,4 @@
      
 ## Summary:
    * Overall, the removal of the ninth-grade data for Thomas High School had a very minimal impact on the school district analysis, specifically on the School and District Summaries, Math and reading scores by grade, scores by school size, and scores by school type. Due to this minimal impact and in an attempt to save the school board's time, a limited amount of images was used for this write up. However, additional images can be provided upon request. A link to the copy of the code is provided below for the school board's easy reference. 
+   * [PyCitySchools_Challenge](PyCitySchools_Challenge.ipynb)
