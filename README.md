@@ -13,9 +13,11 @@
         ![New_District_Summary](Resources/New_District_Summary.png)
         
    * How is the school summary affected?
-     * After changes were made to Thomas High School, we can see a slight decrease in % Passing Reading, & Passing Math, and % Overall Passing. Each of the aforementioned categories decreased by at least .1%. See below images for details. 
-     
-       * Previous School Summary:
+     * After changes were made to Thomas High School, we can see a slight decrease in % Passing Reading, & Passing Math, and % Overall Passing. Each of the aforementioned categories decreased by at least .1%. 
+     *  Despite replacing the ninth graders’ math and reading scores, Thomas High School remained a top five performer when compared to the other schools. see image below for detail.
+    
+        * Previous School Summary:
        ![OLD_SCHOOL_SUMMARY](Resources/OLD_SCHOOL_SUMMARY.png)
-       * New School Summary
-       * ![NEW_SCHOOL_SUMMARY](Resources/NEW_SCHOOL_SUMMARY.png)
+        * New School Summary
+       ![NEW_SCHOOL_SUMMARY](Resources/NEW_SCHOOL_SUMMARY.png)
+     *
