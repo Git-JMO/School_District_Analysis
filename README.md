@@ -5,4 +5,6 @@
    
 ## The Results:
    *  How is the district summary affected?
-      * fkdd
+      * Replacing Thomas High School's math and reading scores with NaNs had a **minimal** impact on the district summary. The differences in the average math scores, % passing math, % passing reading, and % overall passing are all within .3 points and the average reading score didn't change at all.
+
+
